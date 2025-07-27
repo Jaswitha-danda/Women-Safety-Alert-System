@@ -8,17 +8,11 @@ An IoT-based safety system to help women in distress by sending alert messages t
 -[software used](#software-used)
 -[circuit Diagram](#circuit-diagram)
 -[working](#working)
--[How to use](#how to use)
--[Output](#output)
--[Future Scope](#future-scope)
-
----
 
 ## Overview
 
 This project aims to improve women's safety in public areas. A button on the street pole can be pressed when a woman feels unsafe. It triggers a buzzer and blinking lights and sends an alert message to nearby authorities using a Wi-Fi module with the location and street number.
 
----
 
 ## Features
 
@@ -28,7 +22,6 @@ This project aims to improve women's safety in public areas. A button on the str
 - Blinking LED to attract attention
 - Monitors data on ThingView/ThingSpeak 
 
----
 ## Components Used
 
 - ESP8266 
@@ -39,19 +32,14 @@ This project aims to improve women's safety in public areas. A button on the str
 - Jumper Wires
 - Power Source
 
----
-
 ##  Software Used
 
 - Arduino IDE
-- ThingSpeak / ThingView
-
----
+- ThingSpeak / ThingV
 
 ##  Circuit Diagram
 
-![WhatsApp Image 2025-07-27 at 12 05 15_6e238062](https://github.com/user-attachments/assets/6ef548d2-b271-4a6a-ad33-cd4ed54b5c72)
-
+![Image](https://github.com/user-attachments/assets/414d5cf8-73a6-40db-aa6c-2621080216e7)
 
 ##  Working
 
@@ -62,7 +50,6 @@ This project aims to improve women's safety in public areas. A button on the str
 5. The streetlight color is changed to alert others.
 6. Authorities get notified in real-time.
 
----
 
 
 
